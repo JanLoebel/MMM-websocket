@@ -1,0 +1,15 @@
+{
+  "name": "MMM-websocket",
+  "version": "1.0.0",
+  "description": "Module to publish/recieve notifications via websocket",
+  "main": "MMM-websocket.js",
+  "author": "Jan Loebel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JanLoebel/MMM-websocket.git"
+  },
+  "dependencies":{
+    "ws": "latest"
+  }
+}
