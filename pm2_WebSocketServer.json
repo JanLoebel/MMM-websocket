@@ -1,0 +1,6 @@
+{
+  "apps" : [{
+    "name"        : "WebSocketServer",
+    "script"      : "/home/pi/MagicMirror/modules/MMM-websocket/server.js"
+  }]
+}
